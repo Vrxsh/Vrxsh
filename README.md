@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤖 Hello World! I’m Vasanth — an AI/ML Engineer<br><br>🧠 Passionate about Machine Learning | 🧩 Creative Problem Solver | 🚀 Lifelong Learner<br><br>💡 I love transforming data into intelligent systems that solve real-world problems<br><br>📊 Specializing in Python, ML Algorithms, Deep Learning, and Data Engineering<br><br>🧬 Leveling up my expertise in NLP, LLMs, GenAI, and MLOps<br><br>☁️ Comfortable building scalable AI pipelines using AWS, Docker, and FastAPI<br><br>🔍 Always excited to talk about model optimization, prompt engineering, and deployment<br><br>⚙️ Building production-ready, high-performance AI solutions<br><br>📚 Forever a student of mathematics, model interpretability, and applied AI<br><br>✨ Let’s build something intelligent and impactful together!
+🤖 Hello World! I’m Vasanth — an AI/ML Engineer<br><br>🧠 Passionate about Machine Learning | 🧩 Creative Problem Solver | 🚀 Lifelong Learner<br><br>💡 I love transforming data into intelligent systems that solve real-world problems<br><br>📊 Specializing in Python, ML Algorithms, Deep Learning, and Data Engineering<br><br>🧬 Leveling up my expertise in NLP, LLMs, GenAI, and MLOps<br><br>☁️ Comfortable building scalable AI pipelines using AWS, Docker, and FastAPI<br><br>🔍 Always excited to talk about model optimization, prompt engineering, and deployment<br><br>⚙️ Building production-ready, high-performance AI solutions<br><br>✨ Let’s build something intelligent and impactful together!
 
 
 ## 🌐 Socials:
@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Vrxsh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Vrxsh&icon=0&color=0)](https://visitcount.itsvg.in)
