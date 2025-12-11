@@ -1,2 +1,6 @@
 Abc
-new (result)
+new (result)g
+#changed directry cd Vrxsh
+#Insert> add> coomit> push
+#git status
+#
